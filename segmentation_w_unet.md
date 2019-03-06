@@ -17,6 +17,9 @@ Looking for Presenters
 
 ---
 # State of the Art Image Segmentation with UNet
+
+https://meanderingstream.github.io/segmentation_w_unet
+
 ---
 * What is Segmentation?
 * Where is Segmentation Used?
